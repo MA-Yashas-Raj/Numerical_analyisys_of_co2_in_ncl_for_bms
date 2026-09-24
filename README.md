@@ -1,6 +1,6 @@
 # Numerical Analysis of CO₂ in a Non-Circulating Loop for Battery Management Systems
 
-![Battery Cooling System](BATTERY_IMG.png)
+![Battery Cooling System](BATTERY_IMG11.png)
 
 ## 📌 Project Overview
 
