@@ -132,7 +132,7 @@ The results can subsequently be used to evaluate and optimize the cooling-system
 | Numerical Simulation | 🚧 Future Work |
 | Thermal Analysis | 🚧 Future Work |
 | Cooling Performance Evaluation | 🚧 Future Work |
-| Design Optimization | 🚧 Future Work |
+
 
 ---
 
